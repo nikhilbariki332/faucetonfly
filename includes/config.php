@@ -18,6 +18,6 @@ if(mysqli_connect_errno()){
 
 // Website
 
-$Website_Url = "faucetonfly.herokuapp.com";
+$Website_Url = "pikanews.herokuapp.com";
 
 ?>
